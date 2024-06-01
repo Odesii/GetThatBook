@@ -21,7 +21,7 @@ const typeDefs =`
   }
 
   type Query {
-    user(_id: ID, username: String): User
+    myProfile: User
   }
 
   input BookInput {
@@ -43,3 +43,4 @@ const typeDefs =`
 
 
 module.exports = typeDefs;
+
