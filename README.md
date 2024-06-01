@@ -1,6 +1,6 @@
 # GetThatBook
 
-this is a simple app where you can log in and find books, 
+this is a simple app where you can log in and find books to read and then save them to your profile
 
 
 
